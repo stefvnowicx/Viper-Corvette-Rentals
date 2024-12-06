@@ -12,12 +12,13 @@ html {
 }
 
 body {
+   position: relative;
    font-family: "Montserrat", sans-serif;
    font-size: 1.6rem;
    min-height: 100vh;
 }
 
-.navbar{
+.navbar {
    border-top: 1px solid #dc3545;
    border-bottom: 1px solid #dc3545;
 }
@@ -109,11 +110,10 @@ select option {
    }
 }
 
-.navbar-toggler{
+.navbar-toggler {
    font-size: 2.4rem;
    border: 2px solid;
 }
-
 
 // animations
 
@@ -210,5 +210,4 @@ select option {
          }
       }
    }
-  
 }
