@@ -114,6 +114,14 @@ select option {
    border: 2px solid;
 }
 
+.form-input, .form-select, .form-control {
+   border: 1px solid #727272;
+}
+
+.contrast-color {
+   color: #2d63cf;
+}
+
 // animations
 
 .nav-link {
